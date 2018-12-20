@@ -16,7 +16,22 @@
    ===========
 */
 
+html {
+	background-color: white;
+}
 
 body {
-	background-color: black;
+	color: white;
+	background-color: rgb(255, 102, 0);
+	margin-left: 15%;
+	margin-right: 15%;
+	min-height: 950px;
+	text-align: center;
+	clear: both;
+}
+
+nav ul li {
+	color: white;
+	float: left;
+	width: 16.66%;
 }
